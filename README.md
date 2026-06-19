@@ -3,7 +3,7 @@
 ### 書籍情報
 大久保 潤 著,『確率の半歩先 予測・拡散モデルに挑む前の30話』 講談社 (2026）のサポートページです。
 
-出版社のページ: https://www.kspub.co.jp/book/detail/5386477.html
+出版社のページ: https://www.kspub.co.jp/book/detail/5439357.html
 
 <div align="center">
 <img src="https://github.com/junohkubo/probability_half_book/blob/main/figs/jacket_RGB.jpg" width="200px">

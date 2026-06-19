@@ -9,7 +9,7 @@
 <img src="https://github.com/junohkubo/probability_half_book/blob/main/figs/jacket_RGB.jpg" width="200px">
 </div>
 
-（更新: 2026.6.20 補足資料掲載）
+（更新: 2026.6.25 補足資料掲載）
 
 ***
 ### 補足資料：第5話での「時間順序積」について
